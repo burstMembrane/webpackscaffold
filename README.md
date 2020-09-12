@@ -20,7 +20,7 @@ Installed Plugins:
 
 ### GETTING STARTED
 
-clone repo to your local machine
+clone repo to your local machine `git clone https://github.com/burstMembrane/webpackscaffold.git`
 install dependencies
 `npm install`
 
