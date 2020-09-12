@@ -21,6 +21,7 @@ Installed Plugins:
 ### GETTING STARTED
 
 clone repo to your local machine `git clone https://github.com/burstMembrane/webpackscaffold.git`
+
 install dependencies
 `npm install`
 
@@ -30,4 +31,6 @@ to run dev-server
 edit html in app/index.html
 edit css in app/styles
 edit js in app/scripts
+
+
 
